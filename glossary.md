@@ -1,0 +1,24 @@
+# Glossary
+
+- **AFSA** — Astana Financial Services Authority (AIFC regulator).
+- **AIFC** — Astana International Financial Centre (English common-law jurisdiction).
+- **AMLO** — Anti-Money Laundering and Counter-Terrorist Financing Ordinance (Hong Kong, Cap. 615).
+- **CDD / EDD** — Customer / Enhanced Due Diligence.
+- **CISO** — Chief Information Security Officer.
+- **DPO** — Data Protection Officer.
+- **EWRA** — Enterprise-Wide Risk Assessment.
+- **F&P** — Fit and Proper (key-person assessment).
+- **FATF** — Financial Action Task Force (global AML standard-setter).
+- **IVMS101** — interVASP messaging standard for Travel Rule data.
+- **KYC** — Know Your Customer.
+- **MLRO** — Money Laundering Reporting Officer.
+- **PEP** — Politically Exposed Person.
+- **RFI** — Request for Information (from the regulator).
+- **SAR / STR** — Suspicious Activity / Transaction Report.
+- **SFC** — Securities and Futures Commission (Hong Kong).
+- **SFO** — Securities and Futures Ordinance (Hong Kong, Cap. 571).
+- **Travel Rule** — FATF Recommendation 16 for virtual-asset transfers.
+- **UBO** — Ultimate Beneficial Owner.
+- **VARA** — Virtual Assets Regulatory Authority (Dubai).
+- **VASP** — Virtual Asset Service Provider.
+- **VATP** — Virtual Asset Trading Platform (Hong Kong licence).
